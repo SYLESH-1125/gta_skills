@@ -1,0 +1,8 @@
+*.mp4
+*.mov
+upload/
+__pycache__/
+*.pyc
+.streamclips/
+StreamClips/
+settings.json
